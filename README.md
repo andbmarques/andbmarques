@@ -14,4 +14,4 @@ Sou um desenvolvedor front-end junior, atualmente trabalhando com React para des
 ## 🛠 Habilidades
 - React, React Native
 - ChakraUI, Styled Components
-- GIT, HTML, CSS.
+- JS, HTML, CSS, GIT.
