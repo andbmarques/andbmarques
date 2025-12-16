@@ -4,4 +4,4 @@ Olá! Me chamo Anderson e sou Desenvolvedor Fullstack com foco em Web porém gos
 
 ## 🔗 Links
 [💻 Portfolio](https://andbmarques.github.io/portfolio)
-[📃 Linkedin](https://andbmarques.github.io/portfolio)
+[📃 Linkedin](https://linkedin.com/in/andbmarques)
